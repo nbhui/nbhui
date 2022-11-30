@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Shahar Cohen
-- 👀 I’m a computer science B.Sc graduate of H.I.T College
-- 🌱 I'm ccurrently Looking for my first step in the industry, mostly backend development
-- 💞️ Fluent in C, C++, C# and Java
+
 
 <!---
 nbhui/nbhui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,8 +7,10 @@ You can click the Preview link to take a look at your changes.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Shahar%20Cohen&fontSize=90&animation=fadeIn)
 
-### I'm a Junior Backend Engineer @ [PEER39](https://www.peer39.com/).<br>
-#### Find out more about me in my [Portfolio](https://danielisraelov.netlify.app/)
+- 👋 Hi, I’m Shahar Cohen
+- 👀 I’m a computer science B.Sc graduate of H.I.T College
+- 🌱 I'm ccurrently Looking for my first step in the industry, mostly backend development
+- 💞️ Fluent in C, C++, C# and Java
 ---
 
 - 📫 <strong>Get in touch:</strong>
