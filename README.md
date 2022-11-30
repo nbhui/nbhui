@@ -2,9 +2,6 @@
 - 👀 I’m a computer science B.Sc graduate of H.I.T College
 - 🌱 I'm ccurrently Looking for my first step in the industry, mostly backend development
 - 💞️ Fluent in C, C++, C# and Java
-- 📫 Get in touch:
-nbhui187@gmail.com
-https://www.linkedin.com/in/shahar-cohen94/
 
 <!---
 nbhui/nbhui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,21 +33,9 @@ You can click the Preview link to take a look at your changes.
     <img width="35" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
     <img width="35" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
     <img width="35" src="https://img.icons8.com/fluency/344/4a90e2/jupyter.png"/>
-    <img width="35" src="https://img.icons8.com/color/344/26e07f/android-studio--v3.png"/>
-    <img width="35" src="https://cdn.freebiesupply.com/logos/large/2x/datagrip-icon-logo-png-transparent.png"/>
     
-- 💻 <strong>Tools & Frameworks:</strong><br><br>
-    <img width="35" src="https://img.icons8.com/stickers/344/selenium-test-automation.png"/>
-    <img width="35" src="https://img.icons8.com/color/344/html-5--v1.png"/>
-    <img width="35" src="https://img.icons8.com/color/344/css3.png"/>
-    <img width="35" src="https://img.icons8.com/color/512/jenkins.png"/>
-    <img width="35" src="https://img.icons8.com/color/512/spring-logo.png"/>
-    <img width="35" src="https://img.icons8.com/fluency/512/docker.png"/>
-    <img width="35" src="https://img.icons8.com/color/512/kubernetes.png"/>
 
 - 💻 <strong>Databases:</strong><br><br>
-    <img width="35" src="https://img.icons8.com/color/344/postgreesql.png"/>
-    <img width="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
     <img width="35" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 
 ---
