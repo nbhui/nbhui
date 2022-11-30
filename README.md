@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 <strong>Get in touch:</strong>
   
-    [<img align="left" alt="Daniel-isrealov | Gmail" width="32px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:dani.prgrmr@gmail.com)
-[<img align="left" alt="Daniel-isrealov | LinkedIn" width="32px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/daniel-israelov-programmer/) 
+    [<img align="left" alt="Daniel-isrealov | Gmail" width="32px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:nbhui@gmail.com)
+[<img align="left" alt="Daniel-isrealov | LinkedIn" width="32px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/shahar-cohen94/) 
 <br><br>
 
 - 💻 <strong>Programming Languages:</strong><br><br>
