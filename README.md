@@ -32,6 +32,8 @@ You can click the Preview link to take a look at your changes.
     <img width="35" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
     <img width="35" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
     <img width="35" src="https://img.icons8.com/fluency/344/4a90e2/jupyter.png"/>
+    <img width="35" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+
     
 
 - 💻 <strong>Databases:</strong><br><br>
