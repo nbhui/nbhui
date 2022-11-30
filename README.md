@@ -8,8 +8,7 @@ nbhui/nbhui is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-![header](https://komarev.com/ghpvc/?username=nbhui)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Daniel%20Israelov&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Shahar%20CCohen&fontSize=90&animation=fadeIn)
 
 ### I'm a Junior Backend Engineer @ [PEER39](https://www.peer39.com/).<br>
 #### Find out more about me in my [Portfolio](https://danielisraelov.netlify.app/)
