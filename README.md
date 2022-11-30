@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Shahar Cohen
 - 👀 I’m a computer science B.Sc graduate of H.I.T College
-- 🌱 I'm ccurrently Looking for my first step in the industry, mostly backend development
+- 🌱 I'm currently Looking for my first step in the industry, mostly backend development
 - 💞️ Fluent in C, C++, C# and Java
 ---
 
