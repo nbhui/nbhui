@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shahar
+- 👋 Hi, I’m Shahar Cohen
 - 👀 I’m a computer science B.Sc graduate of H.I.T College
 - 🌱 I'm ccurrently Looking for my first step in the industry, mostly backend development
 - 💞️ Fluent in C, C++, C# and Java
