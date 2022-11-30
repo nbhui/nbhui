@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 <strong>Programming Languages:</strong><br><br>
     <img width="35" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
-    ![image](https://user-images.githubusercontent.com/80851306/204763337-47e1cfd1-4346-46d1-982d-f998398fb007.png)
+    ![image](https://user-images.githubusercontent.com/50/80851306/204763337-47e1cfd1-4346-46d1-982d-f998398fb007.png)
     <img width="35" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
     <img width="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img width="35" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
